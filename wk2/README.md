@@ -1,4 +1,4 @@
-# 📌 Week 1 Python Assignment
+# 📌 Week 2 Python Assignment
 
 ## 📝 Assignment Description
 This assignment focuses on **Python list operations** including creating lists, adding/removing elements, sorting, and finding element positions.  
